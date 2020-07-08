@@ -1,0 +1,21 @@
+@import url(common.css);
+
+main {
+    margin: 0 auto;
+    width: 1800px; height: auto;
+    border: 5px solid #ffffff;
+}
+.day h1 {
+  width: 1920px;
+  height: 276px;
+  font-family: ø;
+  font-size: 300px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.23;
+  letter-spacing: 60px;
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+}
